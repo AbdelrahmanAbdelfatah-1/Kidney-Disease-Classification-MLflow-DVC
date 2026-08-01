@@ -1,0 +1,5 @@
+[2026-08-01 01:14:18,053: INFO: main: Starting the CNN Classifier application...]
+[2026-08-01 01:15:44,515: INFO: main: Starting the CNN Classifier application...]
+[2026-08-01 01:15:51,359: INFO: main: Starting the CNN Classifier application...]
+[2026-08-01 01:15:51,359: WARNING: main: This is a warning message.]
+[2026-08-01 01:15:51,359: ERROR: main: This is an error message.]
